@@ -1,0 +1,48 @@
+.p1-text{
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: 700px;
+    color: rgb(33, 37, 41);
+    margin: 0px 0px 2px;
+    font-weight: bold;
+    width: 280px;
+    margin-bottom: 2px;
+    line-height: 24px;
+}
+.p3-text{
+    background-color: red;
+    padding-left: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-right: 16px;
+    margin-bottom: 16px;
+    margin-left: 5px;
+    margin-right: 5px;
+    color:white;
+    text-align: center;
+    margin-top: 30px;
+
+}
+.p2-text{
+    font-size: 14px;
+    color: #606060;
+    margin-bottom: 16px;
+    font-family: Arial;
+    width: 280px;
+
+}
+.p4-text{
+    font-size: 14px;
+    color: #606060;
+    margin-bottom: 16px;
+    font-family: Arial;
+    width: 280px;
+
+}
+.sn{
+    
+}
+.sn:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
