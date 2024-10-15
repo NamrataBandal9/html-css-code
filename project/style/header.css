@@ -16,6 +16,10 @@
     justify-content: space-between;
     display: flex;
     height: 57px;
+    width: 98%;
+    margin-right: 15px;
+    position: fixed;
+    margin-bottom: 15px;
 
 }
 .header-div-one{
@@ -30,7 +34,9 @@
 }
 .header-div-two{
     width:200px ;
-    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
     align-items: center;
     background-color: aliceblue;
 
@@ -108,4 +114,16 @@
 .youtubPage-img{
     width: 85%;
    
+}
+.header-div-subdiv-two{
+    background-color: white;
+    height: 30px;
+    width: 30px;
+}
+.header-div-two-img{
+    width: 100%;
+}
+.header-div-two-th{
+    width: 100%;
+    border-radius: 15px;
 }
