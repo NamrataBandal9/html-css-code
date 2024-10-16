@@ -1,6 +1,7 @@
 .thum-img {
     width: 300px;
     display: block;
+    /* position: absolute; */
     /* height: 600px;
     object-fit: contain;
     object-position: right;
@@ -63,4 +64,14 @@
 }
 .multiple-video{
     margin-left: 75px;
+}
+
+.time-div{
+    position: relative;
+    background-color: black;
+    color: white;
+    width: 50px;
+    left: 80%;
+    bottom: 30px;
+    
 }

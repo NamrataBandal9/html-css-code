@@ -83,6 +83,17 @@
     height: 43px;
     border-color: rgb(29, 28, 28);
     background-color: rgb(247, 247, 247);
+    cursor: pointer;
+    transition: opacity 0.1;
+}
+.search-button.search-over:hover{
+    width: 20px;
+    background-color: #525050;
+    color: white;
+}
+.search-button:hover{
+    opacity: 1;
+
 }
 .voice-search{
     margin-left: 5px;
@@ -126,4 +137,19 @@
 .header-div-two-th{
     width: 100%;
     border-radius: 15px;
+}
+.notifications-count{
+    position: absolute;
+    width: 15px;
+    background-color: red;
+    color: white;
+    top: 0px;
+    right: 0px;
+    border-radius: 50%;
+    padding-left: 5px;
+
+}
+.div-test{
+    position: relative;
+    width: 100%;
 }
